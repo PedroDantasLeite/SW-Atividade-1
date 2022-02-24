@@ -5,9 +5,9 @@ $ git clone https://github.com/PedroDantasLeite/SW-Atividade-1.git
 
 ## Usage
 ```bash
-$ make
-$ ./execute
-$ ps -l
+$ make #Compilar o código
+$ ./execute #Executa o programa
+$ ps -l #Checka se o processo é zumbi
 $ rm execute
 ```
 
