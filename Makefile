@@ -1,10 +1,10 @@
-target: Atividade_1.c
+execute: Atividade_1.c
 	gcc $< -o $@
 
 .PHONY: run clean
 
 run:
-	./target
+	./execute
 
 clean:
-	rm target
+	rm execute
